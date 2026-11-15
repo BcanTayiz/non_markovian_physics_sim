@@ -96,6 +96,6 @@ If you use this framework or code in your research, please cite our paper draft:
   author={Barış Can Tayiz},
   year={2026},
   publisher={Zenodo},
-  doi={10.5281/zenodo.24211819},
-  url={https://doi.org/10.5281/zenodo.24211819}
+  doi={10.5281/zenodo.24211999},
+  url={https://doi.org/10.5281/zenodo.24211999}
 }
